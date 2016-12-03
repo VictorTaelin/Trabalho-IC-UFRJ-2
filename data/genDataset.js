@@ -16,7 +16,6 @@ var pokes = csv.split("\n").slice(1).map(function(line){
     spa: Number(vars[12]),
     spd: Number(vars[13]),
     spe: Number(vars[14]),
-    tot: Number(vars[15]),
     weight: weight*0.453592,
     height: height
   };
