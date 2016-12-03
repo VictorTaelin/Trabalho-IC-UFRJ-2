@@ -53,5 +53,6 @@ Para uma melhor visualização, optamos por plotar as estimativas de densidade k
 
 ![KDE_SPE](images/kde_spe.png)
 
+### Matriz de correlações
 
-
+![Correlation Matrix](images/corr_matrix.png)
