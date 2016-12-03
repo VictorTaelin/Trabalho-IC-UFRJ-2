@@ -54,3 +54,4 @@ Para uma melhor visualização, optamos por plotar as estimativas de densidade k
 ![KDE_SPE](images/kde_spe.png)
 
 
+
