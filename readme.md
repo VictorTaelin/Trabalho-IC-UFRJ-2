@@ -30,3 +30,9 @@ spd | 1061 | 72.911404 | 27.995681 | 2 | 50 | 70 | 90 | 230
 spe | 1061 | 70.321395 | 29.328288 | 5 | 48 | 68 | 93 | 180
 
 Temos um total de 1061 Pokémon, contando formas diferentes como Pokémon diferentes. Podemos observar que os stats tem comportamentos bem similares, com uma média de 70 a 80, e desvio padrão na casa dos 30.
+
+### Box plots
+
+![Box Plot](images/boxplot.png)
+
+Nos box plots podemos observar que grande parte dos stats se encontram entre 0 e 160 pontos, com alguns poucos registros com valores mais elevados até cerca de 220, e dois casos extremos pertencentes à Chansey e Blissey, com 250 e 255 HP, respectivamente.
