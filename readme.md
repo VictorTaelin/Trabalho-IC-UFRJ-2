@@ -56,3 +56,7 @@ Para uma melhor visualização, optamos por plotar as estimativas de densidade k
 ### Matriz de correlações
 
 ![Correlation Matrix](images/corr_matrix.png)
+
+### Matriz de dispersão
+
+![Scatter Matrix](images/scatter_matrix.png)
