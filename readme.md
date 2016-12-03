@@ -35,4 +35,22 @@ Temos um total de 1061 Pokémon, contando formas diferentes como Pokémon difere
 
 ![Box Plot](images/boxplot.png)
 
-Nos box plots podemos observar que grande parte dos stats se encontram entre 0 e 160 pontos, com alguns poucos registros com valores mais elevados até cerca de 220, e dois casos extremos pertencentes à Chansey e Blissey, com 250 e 255 HP, respectivamente.
+Nos box plots, podemos observar que grande parte dos stats se encontram entre 0 e 160 pontos, com alguns poucos registros com valores mais elevados até cerca de 220, e dois casos extremos pertencentes à Chansey e Blissey, com 250 e 255 HP, respectivamente.
+
+### KDE
+
+Para uma melhor visualização, optamos por plotar as estimativas de densidade kernel ao invés de histogramas. 
+
+![KDE_HP](images/kde_hp.png)
+
+![KDE_ATK](images/kde_atk.png)
+
+![KDE_DEF](images/kde_def.png)
+
+![KDE_SPA](images/kde_spa.png)
+
+![KDE_SPD](images/kde_spd.png)
+
+![KDE_SPE](images/kde_spe.png)
+
+
