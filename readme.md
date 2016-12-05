@@ -31,6 +31,10 @@ spe | 1061 | 70.321395 | 29.328288 | 5 | 48 | 68 | 93 | 180
 
 Temos um total de 1061 Pokémon, contando formas diferentes como Pokémon diferentes. Podemos observar que os stats tem comportamentos bem similares, com uma média de 70 a 80, e desvio padrão na casa dos 30.
 
+### Contagem de Pokémon por classe (tipo)
+
+![Pokémon por Classe](images/count.png)
+
 ### Box plots
 
 ![Box Plot](images/boxplot.png)
