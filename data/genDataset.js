@@ -21,8 +21,9 @@ var pokes = csv.split("\n").slice(1).map(function(line){
   };
 });
 fs.writeFileSync("dataset.csv", 
-  "name,type,hp,atk,def,spa,spd,spe\n"
+  "name,type,hp,atk,def,spa,spd,spe,weight,height\n"
   + pokes.map(function(poke){
     return [poke.name, poke.type, poke.hp, poke.atk,
-      poke.def, poke.spa, poke.spd, poke.spe].join(",");
+      poke.def, poke.spa, poke.spd, poke.spe,
+      poke.weight, poke.height].join(",");
   }).join("\n"))
